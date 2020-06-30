@@ -1,0 +1,33 @@
+{
+    "posts":
+    [
+        {
+            "id": 1,
+            "title": "post_1",
+            "date": "2019-01-01T20:56:35",
+            "body": "The post",
+            "deleted": false
+        },
+        {
+            "id": 2,
+            "title": "post_2",
+            "date": "2019-01-01T20:55:35",
+            "body": "The post2",
+            "deleted": false
+        },
+        {
+            "id": 3,
+            "title": "post_3",
+            "date": "2019-01-01T20:57:35",
+            "body": "The post3",
+            "deleted": true
+        },
+        {
+            "id": 4,
+            "title": "post_3",
+            "date": "2020-11-11T20:57:35",
+            "body": "The post3",
+            "deleted": false
+        }
+    ]
+}

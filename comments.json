@@ -1,0 +1,19 @@
+{
+    "comments":
+    [
+        {
+            "id": 1,
+            "post_id": 1,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25",
+            "comment": "Comment"
+        },
+        {
+            "id": 2,
+            "post_id": 1,
+            "title": "comment_1",
+            "date": "2019-01-02T21:56:25",
+            "comment": "Comment"
+        }
+    ]
+}
